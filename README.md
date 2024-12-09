@@ -15,4 +15,6 @@
     # Quiz options
     # Exam section
     # Assignment section
+    # Add toast on error and success messages that get from server
+    
 
